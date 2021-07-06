@@ -39,9 +39,9 @@ span{
     display:flex;
     margin-top:50px;
     text-align: center;
-    background-color: rgb(159, 194, 135);
-
-}
+    background-image: url(7.png)
+      
+    }
 .middle img{
     width:43%}
 
@@ -80,8 +80,7 @@ span{
 }
 
 #calculator{
-  
-    
+    background-color:black;
     margin-right:30px;
     padding:10px;
     color:green;
@@ -91,5 +90,5 @@ span{
 footer{
     text-align: center;
     background-color: rgb(150, 142, 142);
-    margin:0;
-}
+    padding:10px;
+    }
